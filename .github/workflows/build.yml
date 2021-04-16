@@ -1,4 +1,4 @@
-name: Build & push to GH-Pages
+name: Build & push to GH-pages
 
 on:
   push:
