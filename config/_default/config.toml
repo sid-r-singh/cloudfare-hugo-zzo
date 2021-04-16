@@ -1,5 +1,5 @@
-baseURL: "https://sidrana.dev/"
-title = "Hugo Zzo Theme"
+baseURL = "https://sidrana.dev/"
+title = "Sidharth R"
 theme = "zzo"
 
 defaultContentLanguage = "en"
