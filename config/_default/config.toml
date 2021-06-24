@@ -1,6 +1,7 @@
 baseURL = "https://cloudfare-hugo-zzo.pages.dev"
 title = "Sidharth R"
 theme = "zzo"
+viewportSize = "widest"
 
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = true
